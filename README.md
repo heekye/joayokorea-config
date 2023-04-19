@@ -1,0 +1,2 @@
+# joayokorea-config
+config-server
