@@ -1,2 +1,2 @@
 joayokorea:
-  value: dev-test-value-bang change~~~~~
+  value: config-client controller에서 actuator를 동작시켜 변경을 push한다
